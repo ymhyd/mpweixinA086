@@ -1,5 +1,3 @@
-# mpweixinA086
-mpweixinA086基于协同过滤的校园音乐推荐小程序+LW+PPT
  
 ## 查看主页获取源码
 
